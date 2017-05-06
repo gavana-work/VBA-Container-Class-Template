@@ -6,5 +6,5 @@ I hope this template can serve as a simple example of class types that can own o
 This method of organizing data is very useful when your data is related in a "list of lists of lists..." pattern.
 
 //DISCLAIMER
-Written for a 64-bit System with VB7
-And of course, I cannot take credit for the actual method. This is only my rendition.
+Written for a 64-bit System with VB7.
+I cannot take credit for the actual method. This is only my rendition.
